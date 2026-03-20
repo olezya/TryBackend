@@ -1,0 +1,31 @@
+# Virtual environment folders
+venv/
+fastapi-env/
+  
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE/editor specific files (e.g., VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Operating system specific files
+.DS_Store  # MacOS
+Thumbs.db  # Windows
+
+# Test cache files
+*.pyo
+
+# Distribution files
+*.tar.gz
+*.egg-info/
+
+# Other temporary files
+*.bak
+*.swp
+*.db
+*.env
